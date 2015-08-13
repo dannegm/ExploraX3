@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: ea2ab399acd3b4a1d868e9dc53fe793d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 2
+    100006: boce
+    100008: boce1
+    100010: boce2
+    100012: boce3
+    100014: bod1
+    100016: bod2
+    100018: borde
+    100020: borde 1
+    100022: borde 2
+    100024: boton
+    100026: boton_D
+    100028: boton_I
+    100030: deco
+    100032: det
+    100034: det 1
+    100036: det 2
+    100038: det 3
+    100040: det 4
+    100042: pCube4
+    100044: pCube5
+    100046: pCylinder1
+    100048: pCylinder2
+    100050: pCylinder3
+    100052: push
+    100054: push 1
+    100056: push 2
+    100058: //RootNode
+    100060: transform1
+    100062: transform2
+    100064: transform3
+    400000: base
+    400002: base 1
+    400004: base 2
+    400006: boce
+    400008: boce1
+    400010: boce2
+    400012: boce3
+    400014: bod1
+    400016: bod2
+    400018: borde
+    400020: borde 1
+    400022: borde 2
+    400024: boton
+    400026: boton_D
+    400028: boton_I
+    400030: deco
+    400032: det
+    400034: det 1
+    400036: det 2
+    400038: det 3
+    400040: det 4
+    400042: pCube4
+    400044: pCube5
+    400046: pCylinder1
+    400048: pCylinder2
+    400050: pCylinder3
+    400052: push
+    400054: push 1
+    400056: push 2
+    400058: //RootNode
+    400060: transform1
+    400062: transform2
+    400064: transform3
+    2300000: base 2
+    2300002: boce
+    2300004: boce1
+    2300006: boce2
+    2300008: boce3
+    2300010: bod1
+    2300012: bod2
+    2300014: borde
+    2300016: borde 1
+    2300018: borde 2
+    2300020: deco
+    2300022: det
+    2300024: det 1
+    2300026: det 2
+    2300028: det 3
+    2300030: det 4
+    2300032: pCube4
+    2300034: pCube5
+    2300036: push
+    2300038: push 1
+    2300040: push 2
+    3300000: base 2
+    3300002: boce
+    3300004: boce1
+    3300006: boce2
+    3300008: boce3
+    3300010: bod1
+    3300012: bod2
+    3300014: borde
+    3300016: borde 1
+    3300018: borde 2
+    3300020: deco
+    3300022: det
+    3300024: det 1
+    3300026: det 2
+    3300028: det 3
+    3300030: det 4
+    3300032: pCube4
+    3300034: pCube5
+    3300036: push
+    3300038: push 1
+    3300040: push 2
+    4300000: boce
+    4300002: base
+    4300004: det
+    4300006: det
+    4300008: boce1
+    4300010: boce2
+    4300012: bod1
+    4300014: boce3
+    4300016: pCube4
+    4300018: pCube5
+    4300020: push
+    4300022: det
+    4300024: borde
+    4300026: push
+    4300028: det
+    4300030: borde
+    4300032: bod2
+    4300034: push
+    4300036: det
+    4300038: borde
+    4300040: deco
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
